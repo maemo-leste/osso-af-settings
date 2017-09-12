@@ -1,3 +1,9 @@
+osso-af-settings (0.9.2-1) unstable; urgency=medium
+
+  * import sources into git and enable git builds
+
+ -- Ivan J. <parazyd@dyne.org>  Tue, 12 Sep 2017 23:47:00 +0200
+
 osso-af-settings (0.9.2-1) unstable; urgency=low
 
   * Revert back the applications directory to /usr/share/applications/hildon 
