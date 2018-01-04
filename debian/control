@@ -2,7 +2,7 @@ Source: osso-af-settings
 Section: base
 Priority: optional
 Maintainer: Kimmo Hämäläinen <kimmo.hamalainen@nokia.com>
-Build-Depends: debhelper (>= 4.0.0)
+Build-Depends: debhelper (>= 9.20160114)
 Standards-Version: 3.6.0
 
 Package: osso-af-settings
