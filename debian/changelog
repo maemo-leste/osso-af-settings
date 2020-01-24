@@ -1,3 +1,9 @@
+osso-af-settings (0.9.4-1) unstable; urgency=medium
+
+  * Make package any, fix pc bug
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Fri, 24 Jan 2020 13:38:46 +0100
+
 osso-af-settings (0.9.3-1) unstable; urgency=medium
 
   * Add NEWS/README/AUTHORS/ChangeLog
