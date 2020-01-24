@@ -8,5 +8,6 @@ Standards-Version: 3.6.0
 Package: osso-af-settings
 Section: libs
 Architecture: any
+Multi-Arch: same
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: pkg-config settings for Maemo/OS 2006.
